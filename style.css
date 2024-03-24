@@ -1,0 +1,60 @@
+body {
+    background-color: hotpink;
+}
+
+header {
+
+    font-family: Arial, sans-serif;
+    background-color: darkmagenta;
+    color:aquamarine;
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 10px;
+}
+
+.p1 {
+
+    word-wrap: break-word;
+    width: 600px;
+    font-family: sans-serif, Helvetica;
+    padding: 20px;
+    border-style: dashed;
+    border-radius: 15px;
+    border-color: blueviolet;
+}
+
+footer {
+
+    font-family: Arial, sans-serif;
+    background-color: darkmagenta;
+    color:aquamarine;
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 10px;
+
+}
+
+a {
+    color:turquoise;
+}
+
+a:hover {
+    color:indianred;
+}
+
+a:visited {
+    color:blue;
+}
+
+#image {
+    padding: 20px;
+    border-style: dashed;
+    border-color: blueviolet;
+    border-radius: 15px;
+}
+
+#mainimg {
+    border-style: solid;
+    border-color: darkmagenta;
+    border-radius: 0px;
+}
